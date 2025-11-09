@@ -22,7 +22,7 @@ git clone https://github.com/RarefiedMars415/Nazuna_Lab.git
 cd Nazuna_Lab
 ```
 
-### I reccomend to use a virtual enviorment
+### I recommend to use a virtual enviorment
 
 ```bash
 python3 -m venv venv && source venv/bin/activate && pip3 install -r requirements.txt
