@@ -18,36 +18,32 @@ PCAP analyzer (offline)
 git clone https://github.com/RarefiedMars415/Nazuna_Lab.git
 ```
 
-## How to use it Nazuna_Lab
+## How to use
 
 ```bash
 cd Nazuna_Lab
 ```
-### it is reccomended to use a virtual enviorment
+### It is reccomended to use a virtual enviorment
 
 ```bash
 python3 -m venv venv
 ```
 
-### fire up the virtual enviorment
+### Fire up the virtual enviorment
 
 ```bash
 source venv/bin/activate
 ```
 
-## install the requirements
+## Install the requirements
 
 ```bash
 pip3 install -r requirements.txt
 ```
-## start up Nazuna_Lab
+## Start up Nazuna_Lab
 
 ```bash
 python3 nazuna_lab.py
 ```
-
-## to deactivate the virtual enviorment
-
-```bash
-deactivate
 ```
+
