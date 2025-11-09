@@ -28,6 +28,11 @@ cd Nazuna_Lab
 ```bash
 python3 -m venv venv && source venv/bin/activate && pip3 install -r requirements.txt
 ```
+### Use this if you're going to use the video metadata editor
+
+```bash
+sudo apt update && sudo apt install -y ffmpeg
+```
 
 ## Start up Nazuna_Lab
 
