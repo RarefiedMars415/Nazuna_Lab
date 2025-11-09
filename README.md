@@ -12,38 +12,21 @@ local hosting (dev server, local and lan)
 PCAP analyzer (offline)
 (even more coming soon)
 
-## How to install
+## Installation
 
 ```bash
 git clone https://github.com/RarefiedMars415/Nazuna_Lab.git
-```
-
-## How to use
-
-```bash
 cd Nazuna_Lab
 ```
-### It is reccomended to use a virtual enviorment
+
+### I reccomend to use a virtual enviorment
 
 ```bash
-python3 -m venv venv
+python3 -m venv venv && source venv/bin/activate && pip3 install -r requirements.txt
 ```
 
-### Fire up the virtual enviorment
-
-```bash
-source venv/bin/activate
-```
-
-## Install the requirements
-
-```bash
-pip3 install -r requirements.txt
-```
 ## Start up Nazuna_Lab
 
 ```bash
 python3 nazuna_lab.py
 ```
-```
-
