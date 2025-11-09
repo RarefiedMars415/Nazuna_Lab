@@ -12,7 +12,7 @@ local hosting (dev server, local and lan)
 PCAP analyzer (offline)
 (even more coming soon)
 
-## Installation
+## Installation (linux)
 
 ```bash
 git clone https://github.com/RarefiedMars415/Nazuna_Lab.git
@@ -29,4 +29,10 @@ python3 -m venv venv && source venv/bin/activate && pip3 install -r requirements
 
 ```bash
 python3 nazuna_lab.py
+```
+
+### To exit from the virtual enviorment
+you can either close the terminal OR:
+```bash
+deactivate
 ```
