@@ -12,6 +12,9 @@ local hosting (dev server, local and lan)
 PCAP analyzer (offline)
 (even more coming soon)
 
+This project is licensed under the GNU GPL v3 License, with the additional condition that it may not be sold or distributed for profit
+
+
 ## Installation (linux)
 
 ```bash
