@@ -1,0 +1,8 @@
+pyfiglet
+colorama
+cryptography
+Pillow
+piexif
+scapy
+qrcode
+pyperclip
