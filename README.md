@@ -1,5 +1,5 @@
 # Nazuna_Lab
-Nazuna_Lab is a multi tool (that works on windows and was made as a learning project) that has:
+Nazuna_Lab is a multi tool (that works on windows(not tested yet on windows... but it should work) and was made as a learning project) that has:
 notes(add/view)
 password generator
 file encryptor/decryptor (single file)
